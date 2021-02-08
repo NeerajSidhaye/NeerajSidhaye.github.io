@@ -3,184 +3,184 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>https://neerajsidhaye.github.io/en/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>https://neerajsidhaye.github.io/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/</loc>
+    <loc>https://neerajsidhaye.github.io/en/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/"
+                href="https://neerajsidhaye.github.io/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://neerajsidhaye.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/eventsource/</loc>
+    <loc>https://neerajsidhaye.github.io/en/tags/eventsource/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/</loc>
+    <loc>https://neerajsidhaye.github.io/en/posts/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/posts/"
+                href="https://neerajsidhaye.github.io/ko/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/posts/"
+                href="https://neerajsidhaye.github.io/en/posts/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/server-sent-events/</loc>
+    <loc>https://neerajsidhaye.github.io/en/tags/server-sent-events/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/posts/sse/sse/</loc>
+    <loc>https://neerajsidhaye.github.io/en/posts/sse/sse/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/sse/</loc>
+    <loc>https://neerajsidhaye.github.io/en/tags/sse/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/</loc>
+    <loc>https://neerajsidhaye.github.io/en/tags/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/"
+                href="https://neerajsidhaye.github.io/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://neerajsidhaye.github.io/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/publication/article/</loc>
+    <loc>https://neerajsidhaye.github.io/en/publication/article/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/publication/</loc>
+    <loc>https://neerajsidhaye.github.io/en/publication/</loc>
     <lastmod>2020-03-05T14:08:48+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/showcase/hugo/</loc>
+    <loc>https://neerajsidhaye.github.io/en/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/showcase/</loc>
+    <loc>https://neerajsidhaye.github.io/en/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/presentation/dir/fourth/</loc>
+    <loc>https://neerajsidhaye.github.io/en/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/presentation/</loc>
+    <loc>https://neerajsidhaye.github.io/en/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/presentation/third/</loc>
+    <loc>https://neerajsidhaye.github.io/en/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/presentation/second/</loc>
+    <loc>https://neerajsidhaye.github.io/en/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/presentation/first/</loc>
+    <loc>https://neerajsidhaye.github.io/en/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/archive/</loc>
+    <loc>https://neerajsidhaye.github.io/en/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/archive/"
+                href="https://neerajsidhaye.github.io/ko/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/archive/"
+                href="https://neerajsidhaye.github.io/en/archive/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/publication/article/dzone/</loc>
+    <loc>https://neerajsidhaye.github.io/en/publication/article/dzone/</loc>
     <lastmod>2018-11-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/en/categories/</loc>
+    <loc>https://neerajsidhaye.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/categories/"
+                href="https://neerajsidhaye.github.io/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://neerajsidhaye.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/tags/index/</loc>
+    <loc>https://neerajsidhaye.github.io/en/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/index/"
+                href="https://neerajsidhaye.github.io/ko/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/index/"
+                href="https://neerajsidhaye.github.io/en/tags/index/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/en/series/</loc>
+    <loc>https://neerajsidhaye.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/series/"
+                href="https://neerajsidhaye.github.io/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/"
+                href="https://neerajsidhaye.github.io/en/series/"
                 />
   </url>
   

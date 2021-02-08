@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Neeraj Sidhaye</title>
-    <link>http://example.org/en/categories/</link>
+    <link>https://neerajsidhaye.github.io/en/categories/</link>
     <description>Recent content in Categories on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -15,7 +15,7 @@
     <webMaster>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="http://example.org/en/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       

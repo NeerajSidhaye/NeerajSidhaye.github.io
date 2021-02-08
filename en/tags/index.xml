@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Neeraj Sidhaye</title>
-    <link>http://example.org/en/tags/</link>
+    <link>https://neerajsidhaye.github.io/en/tags/</link>
     <description>Recent content in Tags on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="http://example.org/en/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>EventSource</title>
-        <link>http://example.org/en/tags/eventsource/</link>
+        <link>https://neerajsidhaye.github.io/en/tags/eventsource/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
         
-        <guid>http://example.org/en/tags/eventsource/</guid>
+        <guid>https://neerajsidhaye.github.io/en/tags/eventsource/</guid>
         <description></description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>Server Sent Events</title>
-        <link>http://example.org/en/tags/server-sent-events/</link>
+        <link>https://neerajsidhaye.github.io/en/tags/server-sent-events/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
         
-        <guid>http://example.org/en/tags/server-sent-events/</guid>
+        <guid>https://neerajsidhaye.github.io/en/tags/server-sent-events/</guid>
         <description></description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>SSE</title>
-        <link>http://example.org/en/tags/sse/</link>
+        <link>https://neerajsidhaye.github.io/en/tags/sse/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
         
-        <guid>http://example.org/en/tags/sse/</guid>
+        <guid>https://neerajsidhaye.github.io/en/tags/sse/</guid>
         <description></description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>index</title>
-        <link>http://example.org/en/tags/index/</link>
+        <link>https://neerajsidhaye.github.io/en/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
         
-        <guid>http://example.org/en/tags/index/</guid>
+        <guid>https://neerajsidhaye.github.io/en/tags/index/</guid>
         <description></description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
