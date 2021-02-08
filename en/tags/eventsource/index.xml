@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>EventSource on Neeraj Sidhaye</title>
+    <link>http://example.org/en/tags/eventsource/</link>
+    <description>Recent content in EventSource on Neeraj Sidhaye</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</managingEditor>
+    <webMaster>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://example.org/en/tags/eventsource/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>Server Sent Events - Concepts</title>
+        <link>http://example.org/en/posts/sse/sse/</link>
+        <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
+        <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
+        <atom:modified>Sun, 07 Feb 2021 00:00:00 +0000</atom:modified>
+        <guid>http://example.org/en/posts/sse/sse/</guid>
+        <description>This post describes basics of
+ SSE concepts SSE use cases How does SSE work Message Formats SSE code on Client side and Server side SseEmitter connection keep alive time Auto Re-connect mechanism  SSE Concepts  Server Sent Events are the events ( data ) sent from server to the client over HTTP connection.
+This connection is one directional connection from server to client. Meaning that, once the client connects to server, then there after server will send any real-time notifications generated on the server side, to the client.</description>
+        
+        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <media:content url="http://example.org/images/posts/sse/what-are-server-sent-events-sse.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Server Sent Events</category>
+            
+          
+            
+              <category>SSE</category>
+            
+          
+            
+              <category>EventSource</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -1,0 +1,5 @@
+
+
+  
+
+[{"ENTRYTYPE":"article","abstract":"In this article, I have explained detailed steps on how you scan your code with SonarCloud by locally executing maven sonar. It’s a very important phase where we should configure sonar quality gates at the very early stage of the development to eliminate surprises. Adding sonar quality gates later in the developmet cycle add on more issues due to high code density and then we will have to perform more regression and integration tests to make sure that sonar fixes are not breaking existing functionalities. Hence, get sonar configured at an early stage and follow the FAIL FAST appraoch!","authors":["Neeraj Sidhaye"],"booktitle":null,"id":0,"publication":"Dzone","publishDate":"2018-11-18T00:00:00Z","shorttitle":null,"tags":null,"title":"Sonar Clound Integration with Spring Boot","uri":"http://example.org/en/publication/article/dzone/"}]
