@@ -3,71 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://neerajsidhaye.github.io/ko/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neerajsidhaye.github.io/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://neerajsidhaye.github.io/ko/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://neerajsidhaye.github.io/ko/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neerajsidhaye.github.io/en/archive/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://neerajsidhaye.github.io/ko/archive/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://neerajsidhaye.github.io/ko/about/</loc>
-    <lastmod>2019-10-09T11:44:14+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neerajsidhaye.github.io/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://neerajsidhaye.github.io/ko/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://neerajsidhaye.github.io/ko/gallery/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neerajsidhaye.github.io/ko/gallery/photo/</loc>
-    <lastmod>2018-10-12T10:20:16+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neerajsidhaye.github.io/ko/gallery/cartoon/</loc>
-    <lastmod>2018-10-11T10:20:16+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://neerajsidhaye.github.io/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://neerajsidhaye.github.io/en/categories/"
+                href="https://neerajsidhaye.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -77,30 +17,16 @@
   </url>
   
   <url>
-    <loc>https://neerajsidhaye.github.io/ko/tags/index/</loc>
+    <loc>https://neerajsidhaye.github.io/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://neerajsidhaye.github.io/en/tags/index/"
+                href="https://neerajsidhaye.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://neerajsidhaye.github.io/ko/tags/index/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://neerajsidhaye.github.io/ko/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neerajsidhaye.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://neerajsidhaye.github.io/ko/posts/"
+                href="https://neerajsidhaye.github.io/ko/"
                 />
   </url>
   
@@ -109,7 +35,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://neerajsidhaye.github.io/en/series/"
+                href="https://neerajsidhaye.github.io/series/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -123,7 +49,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://neerajsidhaye.github.io/en/tags/"
+                href="https://neerajsidhaye.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
