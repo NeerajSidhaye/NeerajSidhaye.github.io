@@ -106,6 +106,28 @@ This connection is one directional connection from server to client. Meaning tha
         
       </item>
       
+      <item>
+        <title>About me</title>
+        <link>https://neerajsidhaye.github.io/en/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        
+        <guid>https://neerajsidhaye.github.io/en/about/</guid>
+        <description>Hi there, thanks for stopping by&amp;hellip;
+My name is Neeraj Sidhaye and I have got hand-on software engineering development experience on Java, Go and Cloud technologies.
+My interest resolve around technology, fitness and learning.
+I am a passioante runner and like to do challenging workouts!. If you happen to be an Athlete, then we can connect on my Strava profile
+This is my personal blog and views expressed here are my own.</description>
+        
+        <dc:creator>{Neeraj:Sidhaye}</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
 
     
   </channel>

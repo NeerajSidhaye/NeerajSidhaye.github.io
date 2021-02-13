@@ -158,6 +158,20 @@
   </url>
   
   <url>
+    <loc>https://neerajsidhaye.github.io/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://neerajsidhaye.github.io/ko/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://neerajsidhaye.github.io/en/about/"
+                />
+  </url>
+  
+  <url>
     <loc>https://neerajsidhaye.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
