@@ -11,8 +11,8 @@
     <description>Recent content in Server Sent Events on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</managingEditor>
-    <webMaster>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</webMaster>
+    <managingEditor>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</managingEditor>
+    <webMaster>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     
@@ -24,7 +24,7 @@
         <title>Server Sent Events - Concepts</title>
         <link>https://neerajsidhaye.github.io/en/posts/sse/sse/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         <atom:modified>Sun, 07 Feb 2021 00:00:00 +0000</atom:modified>
         <guid>https://neerajsidhaye.github.io/en/posts/sse/sse/</guid>
         <description>This post describes basics of

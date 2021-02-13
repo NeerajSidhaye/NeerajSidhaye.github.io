@@ -11,8 +11,8 @@
     <description>Recent content in Galleries on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
-    <managingEditor>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</managingEditor>
-    <webMaster>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</webMaster>
+    <managingEditor>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</managingEditor>
+    <webMaster>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 12 Oct 2018 10:20:16 +0900</lastBuildDate>
     
@@ -24,12 +24,12 @@
         <title>Photo</title>
         <link>https://neerajsidhaye.github.io/ko/gallery/photo/</link>
         <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
-        <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
         <guid>https://neerajsidhaye.github.io/ko/gallery/photo/</guid>
         <description></description>
         
-        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <dc:creator>{Neeraj:Sidhaye}</dc:creator>
         
         
         
@@ -42,12 +42,12 @@
         <title>Cartoon</title>
         <link>https://neerajsidhaye.github.io/ko/gallery/cartoon/</link>
         <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
-        <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         <atom:modified>Thu, 11 Oct 2018 10:20:16 +0900</atom:modified>
         <guid>https://neerajsidhaye.github.io/ko/gallery/cartoon/</guid>
         <description></description>
         
-        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <dc:creator>{Neeraj:Sidhaye}</dc:creator>
         
         
         

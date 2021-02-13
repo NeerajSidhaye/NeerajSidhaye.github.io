@@ -11,25 +11,61 @@
     <description>Recent content in Tags on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</managingEditor>
-    <webMaster>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</webMaster>
+    <managingEditor>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</managingEditor>
+    <webMaster>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://neerajsidhaye.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
+        <title>API Design</title>
+        <link>https://neerajsidhaye.github.io/en/tags/api-design/</link>
+        <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        
+        <guid>https://neerajsidhaye.github.io/en/tags/api-design/</guid>
+        <description></description>
+        
+        <dc:creator>{Neeraj:Sidhaye}</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>MicroServices</title>
+        <link>https://neerajsidhaye.github.io/en/tags/microservices/</link>
+        <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        
+        <guid>https://neerajsidhaye.github.io/en/tags/microservices/</guid>
+        <description></description>
+        
+        <dc:creator>{Neeraj:Sidhaye}</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>EventSource</title>
         <link>https://neerajsidhaye.github.io/en/tags/eventsource/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
         <guid>https://neerajsidhaye.github.io/en/tags/eventsource/</guid>
         <description></description>
         
-        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <dc:creator>{Neeraj:Sidhaye}</dc:creator>
         
         
         
@@ -42,12 +78,12 @@
         <title>Server Sent Events</title>
         <link>https://neerajsidhaye.github.io/en/tags/server-sent-events/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
         <guid>https://neerajsidhaye.github.io/en/tags/server-sent-events/</guid>
         <description></description>
         
-        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <dc:creator>{Neeraj:Sidhaye}</dc:creator>
         
         
         
@@ -60,12 +96,12 @@
         <title>SSE</title>
         <link>https://neerajsidhaye.github.io/en/tags/sse/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
         <guid>https://neerajsidhaye.github.io/en/tags/sse/</guid>
         <description></description>
         
-        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <dc:creator>{Neeraj:Sidhaye}</dc:creator>
         
         
         
@@ -78,12 +114,12 @@
         <title>index</title>
         <link>https://neerajsidhaye.github.io/en/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com (Neeraj Sidhaye)</author>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
         <guid>https://neerajsidhaye.github.io/en/tags/index/</guid>
         <description></description>
         
-        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <dc:creator>{Neeraj:Sidhaye}</dc:creator>
         
         
         
