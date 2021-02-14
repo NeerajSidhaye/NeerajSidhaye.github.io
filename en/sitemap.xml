@@ -14,7 +14,7 @@
   
   <url>
     <loc>https://neerajsidhaye.github.io/</loc>
-    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -24,6 +24,41 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://neerajsidhaye.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.github.io/tags/go/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.github.io/posts/go/api/gorestapi/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.github.io/posts/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.github.io/tags/rest-api/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.github.io/tags/</loc>
+    <lastmod>2021-02-14T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://neerajsidhaye.github.io/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://neerajsidhaye.github.io/tags/"
                 />
   </url>
   
@@ -40,26 +75,6 @@
   <url>
     <loc>https://neerajsidhaye.github.io/posts/api/designprinciple/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neerajsidhaye.github.io/posts/</loc>
-    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neerajsidhaye.github.io/tags/</loc>
-    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://neerajsidhaye.github.io/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neerajsidhaye.github.io/tags/"
-                />
   </url>
   
   <url>
