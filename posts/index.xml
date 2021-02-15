@@ -14,11 +14,37 @@
     <managingEditor>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</managingEditor>
     <webMaster>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 14 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://neerajsidhaye.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Go - Project structure</title>
+        <link>https://neerajsidhaye.github.io/posts/go/starter/goprojectlayout/</link>
+        <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        <atom:modified>Mon, 15 Feb 2021 00:00:00 +0000</atom:modified>
+        <guid>https://neerajsidhaye.github.io/posts/go/starter/goprojectlayout/</guid>
+        <description>I am sure, how to structure a Go Project, would have been most obvious question which everybody have thought through and it is very obvious. Specially after we write some basic hello world which has only main.go or after doing workouts in Go Playground.
+As we step up and write more code which involve various layering then it becomes very essential to organize the code, so that it is
+ easy to understand and maintain each package purpose becomes self explanatory by it&amp;rsquo;s name reduce interdependencies in the code increase code reusability ease of collaboration  Well, you can think of more points, but the point is, at it&amp;rsquo;s core, it is very important to follow a basic template used by various GO projects ( GO doesn&amp;rsquo;t provide any official docs on project structure) and later on top of that, one can evolve their own structure as needed.</description>
+        
+        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <media:content url="https://neerajsidhaye.github.io//images/posts/go/starter/goprojectlayout.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>GO starter</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Go - Building API</title>
