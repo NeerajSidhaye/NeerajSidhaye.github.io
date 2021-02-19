@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>API Test Automation on Neeraj Sidhaye</title>
+    <link>https://neerajsidhaye.github.io/tags/api-test-automation/</link>
+    <description>Recent content in API Test Automation on Neeraj Sidhaye</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</managingEditor>
+    <webMaster>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://neerajsidhaye.github.io/tags/api-test-automation/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>API Test Automation - in minutes!!</title>
+        <link>https://neerajsidhaye.github.io/posts/api/test/zerocodearchtype/</link>
+        <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        <atom:modified>Thu, 18 Feb 2021 00:00:00 +0000</atom:modified>
+        <guid>https://neerajsidhaye.github.io/posts/api/test/zerocodearchtype/</guid>
+        <description>In this post, I will show you, how simple and fast you can write automation tests for your API using ZeroCode framework
+Before we start, let&amp;rsquo;s quickly read about Test Flavours - test types and where does ZeroCode framework fits in.
+Test Flavours   Expand - Test Flavours   Unit Tests This covers smallest piece of code which validates whether targeted code block works as expected with varieties of inputs.</description>
+        
+        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <media:content url="https://neerajsidhaye.github.io//images/posts/api/test/testing-automation.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>API Test Automation</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
