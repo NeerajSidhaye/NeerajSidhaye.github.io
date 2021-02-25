@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/tags/</link>
+    <link>https://neerajsidhaye.com/tags/</link>
     <description>Recent content in Tags on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Docker</title>
-        <link>https://neerajsidhaye.github.io/tags/docker/</link>
+        <link>https://neerajsidhaye.com/tags/docker/</link>
         <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
-        <guid>https://neerajsidhaye.github.io/tags/docker/</guid>
+        <guid>https://neerajsidhaye.com/tags/docker/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -40,11 +40,11 @@
       
       <item>
         <title>GO</title>
-        <link>https://neerajsidhaye.github.io/tags/go/</link>
+        <link>https://neerajsidhaye.com/tags/go/</link>
         <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
-        <guid>https://neerajsidhaye.github.io/tags/go/</guid>
+        <guid>https://neerajsidhaye.com/tags/go/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -58,11 +58,11 @@
       
       <item>
         <title>API Test Automation</title>
-        <link>https://neerajsidhaye.github.io/tags/api-test-automation/</link>
+        <link>https://neerajsidhaye.com/tags/api-test-automation/</link>
         <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
-        <guid>https://neerajsidhaye.github.io/tags/api-test-automation/</guid>
+        <guid>https://neerajsidhaye.com/tags/api-test-automation/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>GO starter</title>
-        <link>https://neerajsidhaye.github.io/tags/go-starter/</link>
+        <link>https://neerajsidhaye.com/tags/go-starter/</link>
         <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
-        <guid>https://neerajsidhaye.github.io/tags/go-starter/</guid>
+        <guid>https://neerajsidhaye.com/tags/go-starter/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -94,11 +94,11 @@
       
       <item>
         <title>REST API</title>
-        <link>https://neerajsidhaye.github.io/tags/rest-api/</link>
+        <link>https://neerajsidhaye.com/tags/rest-api/</link>
         <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
-        <guid>https://neerajsidhaye.github.io/tags/rest-api/</guid>
+        <guid>https://neerajsidhaye.com/tags/rest-api/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -112,11 +112,11 @@
       
       <item>
         <title>API Design</title>
-        <link>https://neerajsidhaye.github.io/tags/api-design/</link>
+        <link>https://neerajsidhaye.com/tags/api-design/</link>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
-        <guid>https://neerajsidhaye.github.io/tags/api-design/</guid>
+        <guid>https://neerajsidhaye.com/tags/api-design/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -130,11 +130,11 @@
       
       <item>
         <title>MicroServices</title>
-        <link>https://neerajsidhaye.github.io/tags/microservices/</link>
+        <link>https://neerajsidhaye.com/tags/microservices/</link>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
-        <guid>https://neerajsidhaye.github.io/tags/microservices/</guid>
+        <guid>https://neerajsidhaye.com/tags/microservices/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -148,11 +148,11 @@
       
       <item>
         <title>EventSource</title>
-        <link>https://neerajsidhaye.github.io/tags/eventsource/</link>
+        <link>https://neerajsidhaye.com/tags/eventsource/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
-        <guid>https://neerajsidhaye.github.io/tags/eventsource/</guid>
+        <guid>https://neerajsidhaye.com/tags/eventsource/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -166,11 +166,11 @@
       
       <item>
         <title>Server Sent Events</title>
-        <link>https://neerajsidhaye.github.io/tags/server-sent-events/</link>
+        <link>https://neerajsidhaye.com/tags/server-sent-events/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
-        <guid>https://neerajsidhaye.github.io/tags/server-sent-events/</guid>
+        <guid>https://neerajsidhaye.com/tags/server-sent-events/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -184,11 +184,11 @@
       
       <item>
         <title>SSE</title>
-        <link>https://neerajsidhaye.github.io/tags/sse/</link>
+        <link>https://neerajsidhaye.com/tags/sse/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
-        <guid>https://neerajsidhaye.github.io/tags/sse/</guid>
+        <guid>https://neerajsidhaye.com/tags/sse/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -202,11 +202,11 @@
       
       <item>
         <title>index</title>
-        <link>https://neerajsidhaye.github.io/tags/index/</link>
+        <link>https://neerajsidhaye.com/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         
-        <guid>https://neerajsidhaye.github.io/tags/index/</guid>
+        <guid>https://neerajsidhaye.com/tags/index/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>

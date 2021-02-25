@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>article on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/publication/article/</link>
+    <link>https://neerajsidhaye.com/publication/article/</link>
     <description>Recent content in article on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,17 +16,17 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.github.io/publication/article/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.com/publication/article/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Sonar Clound Integration with Spring Boot</title>
-        <link>https://neerajsidhaye.github.io/publication/article/dzone/</link>
+        <link>https://neerajsidhaye.com/publication/article/dzone/</link>
         <pubDate>Sun, 18 Nov 2018 00:00:00 +0000</pubDate>
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         <atom:modified>Sun, 18 Nov 2018 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/publication/article/dzone/</guid>
+        <guid>https://neerajsidhaye.com/publication/article/dzone/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
