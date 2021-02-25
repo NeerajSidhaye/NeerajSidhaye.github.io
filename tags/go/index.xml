@@ -27,10 +27,9 @@
         <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
         <atom:modified>Sun, 21 Feb 2021 00:00:00 +0000</atom:modified>
         <guid>https://neerajsidhaye.github.io/posts/go/docker/dockerizegoapp/</guid>
-        <description>In this post, we will be creating docker image of a GO application.
+        <description>In this post, we will be creating an optimized docker image for GO application using multi stage build - using alpine image and then produce a small image with only binary in a scratch image. Let&amp;rsquo;s read further&amp;hellip;
 Assuming that you have got docker, git and GO installed on your machine so that you can build your GO app locally and then create a docker image.
-Multi Stage Build We will be creating a multi stage build.
- First stage -&amp;gt; We will use base image as golang:alpine Alpine Linux image to build our application.</description>
+Multi Stage Build We will be creating a multi stage build.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
         <media:content url="https://neerajsidhaye.github.io//images/posts/go/docker/dockerizegoapp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
