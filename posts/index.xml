@@ -11,8 +11,6 @@
     <description>Recent content in Posts on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</managingEditor>
-    <webMaster>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>Dockerizing GO applications</title>
         <link>https://neerajsidhaye.com/posts/go/docker/dockerizegoapp/</link>
         <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        
         <atom:modified>Sun, 21 Feb 2021 00:00:00 +0000</atom:modified>
         <guid>https://neerajsidhaye.com/posts/go/docker/dockerizegoapp/</guid>
         <description>In this post, we will be creating an optimized docker image for GO application using multi stage build - using alpine image and then produce a small image with only binary in a scratch image. Let&amp;rsquo;s read further&amp;hellip;
@@ -54,7 +52,7 @@ Multi Stage Build We will be creating a multi stage build.</description>
         <title>API Test Automation - in minutes!!</title>
         <link>https://neerajsidhaye.com/posts/api/test/zerocodearchtype/</link>
         <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        
         <atom:modified>Thu, 18 Feb 2021 00:00:00 +0000</atom:modified>
         <guid>https://neerajsidhaye.com/posts/api/test/zerocodearchtype/</guid>
         <description>In this post, I will show you, how simple and fast you can write automation tests for your API using ZeroCode framework
@@ -80,7 +78,7 @@ Test Flavours   Expand - Test Flavours   Unit Tests This covers smallest piece o
         <title>Go - Project Structure</title>
         <link>https://neerajsidhaye.com/posts/go/starter/goprojectlayout/</link>
         <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        
         <atom:modified>Mon, 15 Feb 2021 00:00:00 +0000</atom:modified>
         <guid>https://neerajsidhaye.com/posts/go/starter/goprojectlayout/</guid>
         <description>I am sure, how to structure a Go Project, would have been most obvious question which everybody have thought through and it is very obvious. Specially after we write some basic hello world which has only main.go or after doing workouts in Go Playground
@@ -106,7 +104,7 @@ As we step up and write more code which involve various layering, then it become
         <title>Go - Building API</title>
         <link>https://neerajsidhaye.com/posts/go/api/gorestapi/</link>
         <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        
         <atom:modified>Sun, 14 Feb 2021 00:00:00 +0000</atom:modified>
         <guid>https://neerajsidhaye.com/posts/go/api/gorestapi/</guid>
         <description>In this post, I will try to put together notes around GO service and REST API.
@@ -138,7 +136,7 @@ GO - WebService GO package net/http does the job for us. It stars the sever and 
         <title>Microservices - Design Principle</title>
         <link>https://neerajsidhaye.com/posts/api/designprinciple/</link>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        
         <atom:modified>Thu, 11 Feb 2021 00:00:00 +0000</atom:modified>
         <guid>https://neerajsidhaye.com/posts/api/designprinciple/</guid>
         <description>I have put together my notes around some of the basic microservices design principles which we must always consider while designing a microservice.
@@ -169,7 +167,7 @@ You are doing wrong if
         <title>Server Sent Events - Concepts</title>
         <link>https://neerajsidhaye.com/posts/sse/sse/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        
         <atom:modified>Sun, 07 Feb 2021 00:00:00 +0000</atom:modified>
         <guid>https://neerajsidhaye.com/posts/sse/sse/</guid>
         <description>This post describes basics of

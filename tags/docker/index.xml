@@ -11,8 +11,6 @@
     <description>Recent content in Docker on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</managingEditor>
-    <webMaster>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 21 Feb 2021 00:00:00 +0000</lastBuildDate>
     
@@ -24,7 +22,7 @@
         <title>Dockerizing GO applications</title>
         <link>https://neerajsidhaye.com/posts/go/docker/dockerizegoapp/</link>
         <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
-        <author>BeTheCodeWithYou@gmail.com ({Neeraj:Sidhaye})</author>
+        
         <atom:modified>Sun, 21 Feb 2021 00:00:00 +0000</atom:modified>
         <guid>https://neerajsidhaye.com/posts/go/docker/dockerizegoapp/</guid>
         <description>In this post, we will be creating an optimized docker image for GO application using multi stage build - using alpine image and then produce a small image with only binary in a scratch image. Let&amp;rsquo;s read further&amp;hellip;
