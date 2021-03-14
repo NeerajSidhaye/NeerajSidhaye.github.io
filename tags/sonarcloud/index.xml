@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>SonarCloud on Neeraj Sidhaye</title>
+    <link>https://neerajsidhaye.com/tags/sonarcloud/</link>
+    <description>Recent content in SonarCloud on Neeraj Sidhaye</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://neerajsidhaye.com/tags/sonarcloud/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>gosec - Go Security scanner and gosec integration with SonarCloud</title>
+        <link>https://neerajsidhaye.com/posts/go/security/goappsecuritychecker/</link>
+        <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sun, 14 Mar 2021 00:00:00 +0000</atom:modified>
+        <guid>https://neerajsidhaye.com/posts/go/security/goappsecuritychecker/</guid>
+        <description>In this post, we will scan GO application code for security issues using gosec and will also integrate gosec with SonarCloud.
+We will explore below topics
+ What is gosec?
+  Installing gosec
+  Running security checks for a GO code
+  Analyzing gosec reports
+  SonarCloud Integration with gosec
+  Companies using gosec
+ What is gosec? gosec is a static code analyzer tool for inspecting go application code for security problems.</description>
+        
+        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <media:content url="https://neerajsidhaye.com/images/posts/go/security/gosecuritychecker.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>GO</category>
+            
+          
+            
+              <category>Security</category>
+            
+          
+            
+              <category>SonarCloud</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
