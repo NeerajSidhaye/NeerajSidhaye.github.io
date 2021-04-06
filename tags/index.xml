@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 14 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://neerajsidhaye.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,10 +21,46 @@
       <item>
         <title>GO</title>
         <link>https://neerajsidhaye.com/tags/go/</link>
-        <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
+        <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
         
         
         <guid>https://neerajsidhaye.com/tags/go/</guid>
+        <description></description>
+        
+        <dc:creator>{Neeraj:Sidhaye}</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>GO Core</title>
+        <link>https://neerajsidhaye.com/tags/go-core/</link>
+        <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://neerajsidhaye.com/tags/go-core/</guid>
+        <description></description>
+        
+        <dc:creator>{Neeraj:Sidhaye}</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>middleware</title>
+        <link>https://neerajsidhaye.com/tags/middleware/</link>
+        <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+        
+        
+        <guid>https://neerajsidhaye.com/tags/middleware/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>

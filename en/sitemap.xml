@@ -14,7 +14,7 @@
   
   <url>
     <loc>https://neerajsidhaye.com/</loc>
-    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -29,16 +29,46 @@
   
   <url>
     <loc>https://neerajsidhaye.com/tags/go/</loc>
-    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neerajsidhaye.com/posts/go/security/goappsecuritychecker/</loc>
-    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
+    <loc>https://neerajsidhaye.com/tags/go-core/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.com/posts/go/core/filter/gomiddleware/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.com/tags/middleware/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://neerajsidhaye.com/posts/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.com/tags/</loc>
+    <lastmod>2021-04-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://neerajsidhaye.com/ko/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://neerajsidhaye.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.com/posts/go/security/goappsecuritychecker/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -50,21 +80,6 @@
   <url>
     <loc>https://neerajsidhaye.com/tags/sonarcloud/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neerajsidhaye.com/tags/</loc>
-    <lastmod>2021-03-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://neerajsidhaye.com/ko/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://neerajsidhaye.com/tags/"
-                />
   </url>
   
   <url>
