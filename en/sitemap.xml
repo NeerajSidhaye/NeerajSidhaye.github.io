@@ -250,10 +250,6 @@
   </url>
   
   <url>
-    <loc>https://neerajsidhaye.com/running/</loc>
-  </url>
-  
-  <url>
     <loc>https://neerajsidhaye.com/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -265,6 +261,10 @@
                 hreflang="en"
                 href="https://neerajsidhaye.com/series/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.com/now/</loc>
   </url>
   
 </urlset>
