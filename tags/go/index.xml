@@ -12,11 +12,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://neerajsidhaye.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Deploying GO app docker image on AWS EC2</title>
+        <link>https://neerajsidhaye.com/posts/go/aws/deployinggoapponaws/</link>
+        <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Tue, 25 May 2021 00:00:00 +0000</atom:modified>
+        <guid>https://neerajsidhaye.com/posts/go/aws/deployinggoapponaws/</guid>
+        <description>In this post, we will be deploying docker image of a GO application on AWS EC2 instance.
+ This involves below steps
+ Launching an EC2 instance
+  SSH to EC2
+  Installing Docker on EC2
+  Starting Docker service
+  Pulling image from docker hub
+  Running the docker image on EC2
+  Testing the application
+ For this post, I have created docker image of a GO rest api and pushed to my docker hub repository.</description>
+        
+        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <media:content url="https://neerajsidhaye.com/images/posts/go/aws/goawsec2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>GO</category>
+            
+          
+            
+              <category>Docker</category>
+            
+          
+            
+              <category>AWS</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>GO Middleware - request response interceptors/filters</title>
