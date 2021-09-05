@@ -12,11 +12,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://neerajsidhaye.com/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>AWS Lambda function in GO</title>
+        <link>https://neerajsidhaye.com/posts/go/aws/golambdafunction/</link>
+        <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Sat, 24 Jul 2021 00:00:00 +0000</atom:modified>
+        <guid>https://neerajsidhaye.com/posts/go/aws/golambdafunction/</guid>
+        <description>In this post, we will be creating, deploying and invoking a aws lambda function in Go.
+We will be using AWS CLI throughout this post for
+ Creating role ( aws iam create-role ) Attaching policy to the role ( aws iam attach-role-policy ) Deploying Lambda function ( aws lambda create-function ) Invoking the lambda function ( aws lambda invoke )  Our lambda function will return a account detail json as below.</description>
+        
+        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <media:content url="https://neerajsidhaye.com/images/posts/go/aws/aws-lambda-go.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>GO</category>
+            
+          
+            
+              <category>AWS</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Deploying GO app docker image on AWS EC2</title>
