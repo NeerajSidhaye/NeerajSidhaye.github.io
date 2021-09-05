@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 24 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Sep 2021 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://neerajsidhaye.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,9 +42,9 @@
       <item>
         <title>AWS Lambda function in GO</title>
         <link>https://neerajsidhaye.com/posts/go/aws/golambdafunction/</link>
-        <pubDate>Sat, 24 Jul 2021 00:00:00 +0000</pubDate>
+        <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
         
-        <atom:modified>Sat, 24 Jul 2021 00:00:00 +0000</atom:modified>
+        <atom:modified>Sat, 04 Sep 2021 00:00:00 +0000</atom:modified>
         <guid>https://neerajsidhaye.com/posts/go/aws/golambdafunction/</guid>
         <description>In this post, we will be creating, deploying and invoking a aws lambda function in Go.
 We will be using AWS CLI throughout this post for
