@@ -32,7 +32,7 @@ Ok, let&amp;rsquo;s go ahead&amp;hellip;
 GO - WebService GO package net/http does the job for us. It stars the sever and ready to receive request at /hello with http.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/api/gorestapi.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/api/gorestapi.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

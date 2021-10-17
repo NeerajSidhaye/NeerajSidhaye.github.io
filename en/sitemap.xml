@@ -14,7 +14,7 @@
   
   <url>
     <loc>https://neerajsidhaye.com/</loc>
-    <lastmod>2021-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -25,6 +25,16 @@
                 hreflang="en"
                 href="https://neerajsidhaye.com/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.com/publication/youtube/applicationmonitoring/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neerajsidhaye.com/publication/</loc>
+    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -144,11 +154,6 @@
   
   <url>
     <loc>https://neerajsidhaye.com/publication/youtube/zerocodepresentation/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neerajsidhaye.com/publication/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url>
   

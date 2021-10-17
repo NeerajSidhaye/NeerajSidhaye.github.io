@@ -36,7 +36,7 @@ We will explore below topics
  What is gosec? gosec is a static code analyzer tool for inspecting go application code for security problems.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/security/gosecuritychecker.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/security/gosecuritychecker.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
