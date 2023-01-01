@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Prometheus, Grafana on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.com/tags/prometheus-grafana/</link>
+    <link>https://neerajsidhaye.gibhub.io/tags/prometheus-grafana/</link>
     <description>Recent content in Prometheus, Grafana on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 18 Sep 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.com/tags/prometheus-grafana/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.gibhub.io/tags/prometheus-grafana/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>GO API monitoring using Prometheus, and Grafana Integration using Docker Compose</title>
-        <link>https://neerajsidhaye.com/posts/api/monitoring/prometheus-handson/</link>
+        <link>https://neerajsidhaye.gibhub.io/posts/api/monitoring/prometheus-handson/</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 18 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.com/posts/api/monitoring/prometheus-handson/</guid>
+        <guid>https://neerajsidhaye.gibhub.io/posts/api/monitoring/prometheus-handson/</guid>
         <description>This post is Prometheus hands on, where we will setup API monitoring using Prometheus, integration with Grafana for data visualization. The entire setup will be achieved using docker compose.
 If you are new to Prometheus, I would recommend to read my post on What is Prometheus?
 We will go through step by step as below
@@ -34,7 +34,7 @@ We will go through step by step as below
   Docker compose</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/api/monitoring/go-prom-grafana-post-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.gibhub.io/images/posts/api/monitoring/go-prom-grafana-post-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

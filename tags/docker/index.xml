@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Docker on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.com/tags/docker/</link>
+    <link>https://neerajsidhaye.gibhub.io/tags/docker/</link>
     <description>Recent content in Docker on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 25 May 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.gibhub.io/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Deploying GO app docker image on AWS EC2</title>
-        <link>https://neerajsidhaye.com/posts/go/aws/deployinggoapponaws/</link>
+        <link>https://neerajsidhaye.gibhub.io/posts/go/aws/deployinggoapponaws/</link>
         <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Tue, 25 May 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.com/posts/go/aws/deployinggoapponaws/</guid>
+        <guid>https://neerajsidhaye.gibhub.io/posts/go/aws/deployinggoapponaws/</guid>
         <description>In this post, we will be deploying docker image of a GO application on AWS EC2 instance.
  This involves below steps
  Launching an EC2 instance
@@ -37,7 +37,7 @@
  For this post, I have created docker image of a GO rest api and pushed to my docker hub repository.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/aws/goawsec2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.gibhub.io/images/posts/go/aws/goawsec2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -61,17 +61,17 @@
       
       <item>
         <title>Dockerizing GO applications</title>
-        <link>https://neerajsidhaye.com/posts/go/docker/dockerizegoapp/</link>
+        <link>https://neerajsidhaye.gibhub.io/posts/go/docker/dockerizegoapp/</link>
         <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 21 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.com/posts/go/docker/dockerizegoapp/</guid>
+        <guid>https://neerajsidhaye.gibhub.io/posts/go/docker/dockerizegoapp/</guid>
         <description>In this post, we will be creating an optimized docker image for GO application using multi stage build - using alpine image and then produce a small image with only binary in a scratch image. Let&amp;rsquo;s read further&amp;hellip;
 Assuming that you have got docker, git and GO installed on your machine so that you can build your GO app locally and then create a docker image.
 Multi Stage Build We will be creating a multi stage build.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/docker/dockerizegoapp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.gibhub.io/images/posts/go/docker/dockerizegoapp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

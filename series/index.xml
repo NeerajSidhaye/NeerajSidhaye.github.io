@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.com/series/</link>
+    <link>https://neerajsidhaye.gibhub.io/series/</link>
     <description>Recent content in Series on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://neerajsidhaye.com/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.gibhub.io/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       

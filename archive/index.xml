@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.com/archive/</link>
+    <link>https://neerajsidhaye.gibhub.io/archive/</link>
     <description>Recent content in Archive on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.com/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.gibhub.io/archive/index.xml" rel="self" type="application/rss+xml" />
     
 
       

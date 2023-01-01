@@ -7,30 +7,30 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>SSE on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.com/tags/sse/</link>
+    <link>https://neerajsidhaye.gibhub.io/tags/sse/</link>
     <description>Recent content in SSE on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 07 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.com/tags/sse/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.gibhub.io/tags/sse/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Server Sent Events - Concepts</title>
-        <link>https://neerajsidhaye.com/posts/sse/sse/</link>
+        <link>https://neerajsidhaye.gibhub.io/posts/sse/sse/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 07 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.com/posts/sse/sse/</guid>
+        <guid>https://neerajsidhaye.gibhub.io/posts/sse/sse/</guid>
         <description>This post describes basics of
  SSE concepts SSE use cases How does SSE work Message Formats SSE code on Client side and Server side SseEmitter connection keep alive time Auto Re-connect mechanism  SSE Concepts  Server Sent Events are the events ( data ) sent from server to the client over HTTP connection.
 This connection is one directional connection from server to client. Meaning that, once the client connects to server, then there after server will send any real-time notifications generated on the server side, to the client.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/sse/what-are-server-sent-events-sse.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.gibhub.io/images/posts/sse/what-are-server-sent-events-sse.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
