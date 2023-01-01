@@ -7,31 +7,31 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>API Design on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.gibhub.io/tags/api-design/</link>
+    <link>www.neerajsidhaye.com/tags/api-design/</link>
     <description>Recent content in API Design on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.gibhub.io/tags/api-design/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="www.neerajsidhaye.com/tags/api-design/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Microservices - Design Principle</title>
-        <link>https://neerajsidhaye.gibhub.io/posts/api/designprinciple/</link>
+        <link>www.neerajsidhaye.com/posts/api/designprinciple/</link>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Thu, 11 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.gibhub.io/posts/api/designprinciple/</guid>
+        <guid>www.neerajsidhaye.com/posts/api/designprinciple/</guid>
         <description>I have put together my notes around some of the basic microservices design principles which we must always consider while designing a microservice.
 Design principles for MicroServices 1. Develop and Deployed independently Each service should be developed and deployed independently. Deployment of one service should not impact other services and a each service should have it&amp;rsquo;s own code base.
 You are doing wrong if
  You find a need to deploy services together You have one code base for multiple services You need to send notification to before you deploy a service  2.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.gibhub.io/images/posts/api/microservices.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="www.neerajsidhaye.com/images/posts/api/microservices.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>API on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.gibhub.io/tags/api/</link>
+    <link>www.neerajsidhaye.com/tags/api/</link>
     <description>Recent content in API on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 18 Sep 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.gibhub.io/tags/api/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="www.neerajsidhaye.com/tags/api/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>GO API monitoring using Prometheus, and Grafana Integration using Docker Compose</title>
-        <link>https://neerajsidhaye.gibhub.io/posts/api/monitoring/prometheus-handson/</link>
+        <link>www.neerajsidhaye.com/posts/api/monitoring/prometheus-handson/</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 18 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.gibhub.io/posts/api/monitoring/prometheus-handson/</guid>
+        <guid>www.neerajsidhaye.com/posts/api/monitoring/prometheus-handson/</guid>
         <description>This post is Prometheus hands on, where we will setup API monitoring using Prometheus, integration with Grafana for data visualization. The entire setup will be achieved using docker compose.
 If you are new to Prometheus, I would recommend to read my post on What is Prometheus?
 We will go through step by step as below
@@ -34,7 +34,7 @@ We will go through step by step as below
   Docker compose</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.gibhub.io/images/posts/api/monitoring/go-prom-grafana-post-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="www.neerajsidhaye.com/images/posts/api/monitoring/go-prom-grafana-post-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -62,11 +62,11 @@ We will go through step by step as below
       
       <item>
         <title>What is Prometheus?</title>
-        <link>https://neerajsidhaye.gibhub.io/posts/api/monitoring/prometheus-concept/</link>
+        <link>www.neerajsidhaye.com/posts/api/monitoring/prometheus-concept/</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 18 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.gibhub.io/posts/api/monitoring/prometheus-concept/</guid>
+        <guid>www.neerajsidhaye.com/posts/api/monitoring/prometheus-concept/</guid>
         <description>This is the first post on Prometheus series. If you already know basics of Prometheus, then please read my post on Prometheus Hands-On Go api monitoring using Prometheus and Grafana Integration using Docker Compose
 In this post, we will look at
 What is Prometheus?
@@ -78,7 +78,7 @@ Key Highlights
 What is Prometheus? This is an open-source monitoring and alerting system.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.gibhub.io/images/posts/api/monitoring/prometheus-image.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="www.neerajsidhaye.com/images/posts/api/monitoring/prometheus-image.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
