@@ -7,30 +7,30 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>API Test Automation on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/tags/api-test-automation/</link>
+    <link>https://neerajsidhaye.com/tags/api-test-automation/</link>
     <description>Recent content in API Test Automation on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.github.io/tags/api-test-automation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.com/tags/api-test-automation/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>API Test Automation - in minutes!!</title>
-        <link>https://neerajsidhaye.github.io/posts/api/test/zerocodearchtype/</link>
+        <link>https://neerajsidhaye.com/posts/api/test/zerocodearchtype/</link>
         <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Thu, 18 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/api/test/zerocodearchtype/</guid>
+        <guid>https://neerajsidhaye.com/posts/api/test/zerocodearchtype/</guid>
         <description>In this post, I will show you, how simple and fast you can write automation tests for your API using ZeroCode framework
 Before we start, let&amp;rsquo;s quickly read about Test Flavours - test types and where does ZeroCode framework fits in.
 Test Flavours   Expand - Test Flavours   Unit Tests This covers smallest piece of code which validates whether targeted code block works as expected with varieties of inputs.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/api/test/testing-automation.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/api/test/testing-automation.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

@@ -7,14 +7,14 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/</link>
+    <link>https://neerajsidhaye.com/</link>
     <description>Recent content on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 02 Oct 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.com/index.xml" rel="self" type="application/rss+xml" />
     
       
       
@@ -41,11 +41,11 @@
       
       <item>
         <title>GO api monitoring using Prometheus, and Grafana Integration using Docker Compose</title>
-        <link>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-handson/</link>
+        <link>https://neerajsidhaye.com/posts/api/monitoring/prometheus-handson/</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 18 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-handson/</guid>
+        <guid>https://neerajsidhaye.com/posts/api/monitoring/prometheus-handson/</guid>
         <description>This post is Prometheus hands on, where we will setup API monitoring using Prometheus, integration with Grafana for data visualization. The entire setup will be achieved using docker compose.
 If you are new to Prometheus, I would recommend to read my post on What is Prometheus?
 We will go through step by step as below
@@ -55,7 +55,7 @@ We will go through step by step as below
   Docker compose</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/api/monitoring/go-prom-grafana-post-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/api/monitoring/go-prom-grafana-post-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -79,11 +79,11 @@ We will go through step by step as below
       
       <item>
         <title>What is Prometheus?</title>
-        <link>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-concept/</link>
+        <link>https://neerajsidhaye.com/posts/api/monitoring/prometheus-concept/</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 18 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-concept/</guid>
+        <guid>https://neerajsidhaye.com/posts/api/monitoring/prometheus-concept/</guid>
         <description>This is the first post on Prometheus series. If you already know basics of Prometheus, then please read my post on Prometheus Hands-On Go api monitoring using Prometheus and Grafana Integration using Docker Compose
 In this post, we will look at
 What is Prometheus?
@@ -95,7 +95,7 @@ Key Highlights
 What is Prometheus? This is an open-source monitoring and alerting system.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/api/monitoring/prometheus-image.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/api/monitoring/prometheus-image.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -119,17 +119,17 @@ What is Prometheus? This is an open-source monitoring and alerting system.</desc
       
       <item>
         <title>AWS Lambda function in GO</title>
-        <link>https://neerajsidhaye.github.io/posts/go/aws/golambdafunction/</link>
+        <link>https://neerajsidhaye.com/posts/go/aws/golambdafunction/</link>
         <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 04 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/go/aws/golambdafunction/</guid>
+        <guid>https://neerajsidhaye.com/posts/go/aws/golambdafunction/</guid>
         <description>In this post, we will be creating, deploying and invoking a aws lambda function in Go.
  We will be using AWS CLI throughout this post for
  Creating role ( aws iam create-role ) Attaching policy to the role ( aws iam attach-role-policy ) Deploying Lambda function ( aws lambda create-function ) Invoking the lambda function ( aws lambda invoke )  Our lambda function will return a account detail json as below.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/go/aws/aws-lambda-go.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/go/aws/aws-lambda-go.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -149,11 +149,11 @@ What is Prometheus? This is an open-source monitoring and alerting system.</desc
       
       <item>
         <title>Deploying GO app docker image on AWS EC2</title>
-        <link>https://neerajsidhaye.github.io/posts/go/aws/deployinggoapponaws/</link>
+        <link>https://neerajsidhaye.com/posts/go/aws/deployinggoapponaws/</link>
         <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Tue, 25 May 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/go/aws/deployinggoapponaws/</guid>
+        <guid>https://neerajsidhaye.com/posts/go/aws/deployinggoapponaws/</guid>
         <description>In this post, we will be deploying docker image of a GO application on AWS EC2 instance.
  This involves below steps
  Launching an EC2 instance
@@ -166,7 +166,7 @@ What is Prometheus? This is an open-source monitoring and alerting system.</desc
  For this post, I have created docker image of a GO rest api and pushed to my docker hub repository.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/go/aws/goawsec2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/go/aws/goawsec2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -190,18 +190,18 @@ What is Prometheus? This is an open-source monitoring and alerting system.</desc
       
       <item>
         <title>GO Middleware - request response interceptors/filters</title>
-        <link>https://neerajsidhaye.github.io/posts/go/core/filter/gomiddleware/</link>
+        <link>https://neerajsidhaye.com/posts/go/core/filter/gomiddleware/</link>
         <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Mon, 05 Apr 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/go/core/filter/gomiddleware/</guid>
+        <guid>https://neerajsidhaye.com/posts/go/core/filter/gomiddleware/</guid>
         <description>What is GO Middleware? Go middleware are like filters which gets executed for performing pre and/or post processing of the request.
 middleware or the filters implementation is achieved through http handler wrappers.
 HttpHandler wrappers are the functions which takes http.Handler as input and returns http.Handler as output.
 Defining Middleware Here we have defined a simple log request middleware, which takes one argument and returns one argument and of the same type http.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/go/core/go-middleware.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/go/core/go-middleware.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -225,11 +225,11 @@ Defining Middleware Here we have defined a simple log request middleware, which 
       
       <item>
         <title>gosec - GO security scanner and gosec integration with SonarCloud</title>
-        <link>https://neerajsidhaye.github.io/posts/go/security/goappsecuritychecker/</link>
+        <link>https://neerajsidhaye.com/posts/go/security/goappsecuritychecker/</link>
         <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 14 Mar 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/go/security/goappsecuritychecker/</guid>
+        <guid>https://neerajsidhaye.com/posts/go/security/goappsecuritychecker/</guid>
         <description>In this post, we will scan GO application code for security issues using gosec and will also integrate gosec with SonarCloud.
 We will explore below topics
  What is gosec?
@@ -241,7 +241,7 @@ We will explore below topics
  What is gosec? gosec is a static code analyzer tool for inspecting go application code for security problems.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/go/security/gosecuritychecker.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/go/security/gosecuritychecker.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -265,17 +265,17 @@ We will explore below topics
       
       <item>
         <title>Dockerizing GO applications</title>
-        <link>https://neerajsidhaye.github.io/posts/go/docker/dockerizegoapp/</link>
+        <link>https://neerajsidhaye.com/posts/go/docker/dockerizegoapp/</link>
         <pubDate>Sun, 21 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 21 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/go/docker/dockerizegoapp/</guid>
+        <guid>https://neerajsidhaye.com/posts/go/docker/dockerizegoapp/</guid>
         <description>In this post, we will be creating an optimized docker image for GO application using multi stage build - using alpine image and then produce a small image with only binary in a scratch image. Let&amp;rsquo;s read further&amp;hellip;
 Assuming that you have got docker, git and GO installed on your machine so that you can build your GO app locally and then create a docker image.
 Multi Stage Build We will be creating a multi stage build.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/go/docker/dockerizegoapp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/go/docker/dockerizegoapp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -295,17 +295,17 @@ Multi Stage Build We will be creating a multi stage build.</description>
       
       <item>
         <title>API Test Automation - in minutes!!</title>
-        <link>https://neerajsidhaye.github.io/posts/api/test/zerocodearchtype/</link>
+        <link>https://neerajsidhaye.com/posts/api/test/zerocodearchtype/</link>
         <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Thu, 18 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/api/test/zerocodearchtype/</guid>
+        <guid>https://neerajsidhaye.com/posts/api/test/zerocodearchtype/</guid>
         <description>In this post, I will show you, how simple and fast you can write automation tests for your API using ZeroCode framework
 Before we start, let&amp;rsquo;s quickly read about Test Flavours - test types and where does ZeroCode framework fits in.
 Test Flavours   Expand - Test Flavours   Unit Tests This covers smallest piece of code which validates whether targeted code block works as expected with varieties of inputs.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/api/test/testing-automation.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/api/test/testing-automation.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -321,17 +321,17 @@ Test Flavours   Expand - Test Flavours   Unit Tests This covers smallest piece o
       
       <item>
         <title>Go - Project Structure</title>
-        <link>https://neerajsidhaye.github.io/posts/go/starter/goprojectlayout/</link>
+        <link>https://neerajsidhaye.com/posts/go/starter/goprojectlayout/</link>
         <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Mon, 15 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/go/starter/goprojectlayout/</guid>
+        <guid>https://neerajsidhaye.com/posts/go/starter/goprojectlayout/</guid>
         <description>I am sure, how to structure a Go Project, would have been most obvious question which everybody have thought through and it is very obvious. Specially after we write some basic hello world which has only main.go or after doing workouts in Go Playground
 As we step up and write more code which involve various layering, then it becomes very essential to organize the code, so that:-
  easy to understand and maintain each package purpose becomes self explanatory by it&amp;rsquo;s name reduce interdependencies in the code increase code reusability ease of collaboration  Well, you can think of more points, but the fact is, it is very important to follow a basic template which is set a as standard by various GO projects ( GO doesn&amp;rsquo;t provide any official docs on project structure as such) and later on top of that, one can evolve their own structure as needed.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/go/starter/goprojectlayout.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/go/starter/goprojectlayout.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -347,11 +347,11 @@ As we step up and write more code which involve various layering, then it become
       
       <item>
         <title>Go - Building API</title>
-        <link>https://neerajsidhaye.github.io/posts/go/api/gorestapi/</link>
+        <link>https://neerajsidhaye.com/posts/go/api/gorestapi/</link>
         <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 14 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/go/api/gorestapi/</guid>
+        <guid>https://neerajsidhaye.com/posts/go/api/gorestapi/</guid>
         <description>In this post, I will try to put together notes around GO service and REST API.
  The complete source code is available on my github repo.I have created 3 branches, each branch representing different flavour of writing service.
 GO api source code
@@ -359,7 +359,7 @@ Ok, let&amp;rsquo;s go ahead&amp;hellip;
 GO - WebService GO package net/http does the job for us. It stars the sever and ready to receive request at /hello with http.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/go/api/gorestapi.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/go/api/gorestapi.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -379,18 +379,18 @@ GO - WebService GO package net/http does the job for us. It stars the sever and 
       
       <item>
         <title>Microservices - Design Principle</title>
-        <link>https://neerajsidhaye.github.io/posts/api/designprinciple/</link>
+        <link>https://neerajsidhaye.com/posts/api/designprinciple/</link>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Thu, 11 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/api/designprinciple/</guid>
+        <guid>https://neerajsidhaye.com/posts/api/designprinciple/</guid>
         <description>I have put together my notes around some of the basic microservices design principles which we must always consider while designing a microservice.
 Design principles for MicroServices 1. Develop and Deployed independently Each service should be developed and deployed independently. Deployment of one service should not impact other services and a each service should have it&amp;rsquo;s own code base.
 You are doing wrong if
  You find a need to deploy services together You have one code base for multiple services You need to send notification to before you deploy a service  2.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/api/microservices.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/api/microservices.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -410,17 +410,17 @@ You are doing wrong if
       
       <item>
         <title>Server Sent Events - Concepts</title>
-        <link>https://neerajsidhaye.github.io/posts/sse/sse/</link>
+        <link>https://neerajsidhaye.com/posts/sse/sse/</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 07 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/sse/sse/</guid>
+        <guid>https://neerajsidhaye.com/posts/sse/sse/</guid>
         <description>This post describes basics of
  SSE concepts SSE use cases How does SSE work Message Formats SSE code on Client side and Server side SseEmitter connection keep alive time Auto Re-connect mechanism  SSE Concepts  Server Sent Events are the events ( data ) sent from server to the client over HTTP connection.
 This connection is one directional connection from server to client. Meaning that, once the client connects to server, then there after server will send any real-time notifications generated on the server side, to the client.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.github.io/images/posts/sse/what-are-server-sent-events-sse.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com/images/posts/sse/what-are-server-sent-events-sse.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
