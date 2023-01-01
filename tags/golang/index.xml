@@ -6,15 +6,15 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Prometheus, Grafana on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.gibhub.io/tags/prometheus-grafana/</link>
-    <description>Recent content in Prometheus, Grafana on Neeraj Sidhaye</description>
+    <title>GoLang on Neeraj Sidhaye</title>
+    <link>https://neerajsidhaye.gibhub.io/tags/golang/</link>
+    <description>Recent content in GoLang on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 18 Sep 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.gibhub.io/tags/prometheus-grafana/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.gibhub.io/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
 
       
