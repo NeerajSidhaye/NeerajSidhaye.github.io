@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>About Me on Neeraj Sidhaye</title>
-    <link>www.neerajsidhaye.com/about.html</link>
+    <link>https://www.neerajsidhaye.com/about.html</link>
     <description>Recent content in About Me on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="www.neerajsidhaye.com/about/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.neerajsidhaye.com/about/index.xml" rel="self" type="application/rss+xml" />
     
 
       

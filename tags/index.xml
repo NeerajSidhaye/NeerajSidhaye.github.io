@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Neeraj Sidhaye</title>
-    <link>www.neerajsidhaye.com/tags.html</link>
+    <link>https://www.neerajsidhaye.com/tags.html</link>
     <description>Recent content in Tags on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 18 Sep 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="www.neerajsidhaye.com/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.neerajsidhaye.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>API</title>
-        <link>www.neerajsidhaye.com/tags/api.html</link>
+        <link>https://www.neerajsidhaye.com/tags/api.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/api.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/api.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -38,11 +38,11 @@
       
       <item>
         <title>API Monitoring</title>
-        <link>www.neerajsidhaye.com/tags/api-monitoring.html</link>
+        <link>https://www.neerajsidhaye.com/tags/api-monitoring.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/api-monitoring.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/api-monitoring.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -56,11 +56,11 @@
       
       <item>
         <title>GoLang</title>
-        <link>www.neerajsidhaye.com/tags/golang.html</link>
+        <link>https://www.neerajsidhaye.com/tags/golang.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/golang.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/golang.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -74,11 +74,11 @@
       
       <item>
         <title>Prometheus</title>
-        <link>www.neerajsidhaye.com/tags/prometheus.html</link>
+        <link>https://www.neerajsidhaye.com/tags/prometheus.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/prometheus.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/prometheus.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -92,11 +92,11 @@
       
       <item>
         <title>Prometheus, Grafana</title>
-        <link>www.neerajsidhaye.com/tags/prometheus-grafana.html</link>
+        <link>https://www.neerajsidhaye.com/tags/prometheus-grafana.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/prometheus-grafana.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/prometheus-grafana.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -110,11 +110,11 @@
       
       <item>
         <title>AWS</title>
-        <link>www.neerajsidhaye.com/tags/aws.html</link>
+        <link>https://www.neerajsidhaye.com/tags/aws.html</link>
         <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/aws.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/aws.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -128,11 +128,11 @@
       
       <item>
         <title>GO</title>
-        <link>www.neerajsidhaye.com/tags/go.html</link>
+        <link>https://www.neerajsidhaye.com/tags/go.html</link>
         <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/go.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/go.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -146,11 +146,11 @@
       
       <item>
         <title>Docker</title>
-        <link>www.neerajsidhaye.com/tags/docker.html</link>
+        <link>https://www.neerajsidhaye.com/tags/docker.html</link>
         <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/docker.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/docker.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -164,11 +164,11 @@
       
       <item>
         <title>GO Core</title>
-        <link>www.neerajsidhaye.com/tags/go-core.html</link>
+        <link>https://www.neerajsidhaye.com/tags/go-core.html</link>
         <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/go-core.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/go-core.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -182,11 +182,11 @@
       
       <item>
         <title>middleware</title>
-        <link>www.neerajsidhaye.com/tags/middleware.html</link>
+        <link>https://www.neerajsidhaye.com/tags/middleware.html</link>
         <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/middleware.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/middleware.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -200,11 +200,11 @@
       
       <item>
         <title>Security</title>
-        <link>www.neerajsidhaye.com/tags/security.html</link>
+        <link>https://www.neerajsidhaye.com/tags/security.html</link>
         <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/security.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/security.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -218,11 +218,11 @@
       
       <item>
         <title>SonarCloud</title>
-        <link>www.neerajsidhaye.com/tags/sonarcloud.html</link>
+        <link>https://www.neerajsidhaye.com/tags/sonarcloud.html</link>
         <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/sonarcloud.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/sonarcloud.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -236,11 +236,11 @@
       
       <item>
         <title>API Test Automation</title>
-        <link>www.neerajsidhaye.com/tags/api-test-automation.html</link>
+        <link>https://www.neerajsidhaye.com/tags/api-test-automation.html</link>
         <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/api-test-automation.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/api-test-automation.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -254,11 +254,11 @@
       
       <item>
         <title>GO starter</title>
-        <link>www.neerajsidhaye.com/tags/go-starter.html</link>
+        <link>https://www.neerajsidhaye.com/tags/go-starter.html</link>
         <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/go-starter.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/go-starter.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -272,11 +272,11 @@
       
       <item>
         <title>REST API</title>
-        <link>www.neerajsidhaye.com/tags/rest-api.html</link>
+        <link>https://www.neerajsidhaye.com/tags/rest-api.html</link>
         <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/rest-api.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/rest-api.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -290,11 +290,11 @@
       
       <item>
         <title>API Design</title>
-        <link>www.neerajsidhaye.com/tags/api-design.html</link>
+        <link>https://www.neerajsidhaye.com/tags/api-design.html</link>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/api-design.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/api-design.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -308,11 +308,11 @@
       
       <item>
         <title>MicroServices</title>
-        <link>www.neerajsidhaye.com/tags/microservices.html</link>
+        <link>https://www.neerajsidhaye.com/tags/microservices.html</link>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/microservices.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/microservices.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -326,11 +326,11 @@
       
       <item>
         <title>EventSource</title>
-        <link>www.neerajsidhaye.com/tags/eventsource.html</link>
+        <link>https://www.neerajsidhaye.com/tags/eventsource.html</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/eventsource.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/eventsource.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -344,11 +344,11 @@
       
       <item>
         <title>Server Sent Events</title>
-        <link>www.neerajsidhaye.com/tags/server-sent-events.html</link>
+        <link>https://www.neerajsidhaye.com/tags/server-sent-events.html</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/server-sent-events.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/server-sent-events.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -362,11 +362,11 @@
       
       <item>
         <title>SSE</title>
-        <link>www.neerajsidhaye.com/tags/sse.html</link>
+        <link>https://www.neerajsidhaye.com/tags/sse.html</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/sse.html</guid>
+        <guid>https://www.neerajsidhaye.com/tags/sse.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -380,11 +380,11 @@
       
       <item>
         <title>index</title>
-        <link>www.neerajsidhaye.com/tags/index/</link>
+        <link>https://www.neerajsidhaye.com/tags/index/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         
-        <guid>www.neerajsidhaye.com/tags/index/</guid>
+        <guid>https://www.neerajsidhaye.com/tags/index/</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
