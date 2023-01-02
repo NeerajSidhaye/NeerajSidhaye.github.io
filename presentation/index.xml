@@ -7,28 +7,28 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on Neeraj Sidhaye</title>
-    <link>https://www.neerajsidhaye.com/presentation/</link>
+    <link>www.neerajsidhaye.com/presentation.html</link>
     <description>Recent content in Presentations on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     
-        <atom:link href="https://www.neerajsidhaye.com/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="www.neerajsidhaye.com/presentation/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Fourth</title>
-        <link>https://www.neerajsidhaye.com/presentation/dir/fourth/</link>
+        <link>www.neerajsidhaye.com/presentation/dir/fourth.html</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>https://www.neerajsidhaye.com/presentation/dir/fourth/</guid>
+        <guid>www.neerajsidhaye.com/presentation/dir/fourth.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
-        <media:content url="https://www.neerajsidhaye.com/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="www.neerajsidhaye.com/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -50,15 +50,15 @@
       
       <item>
         <title>Third</title>
-        <link>https://www.neerajsidhaye.com/presentation/third/</link>
+        <link>www.neerajsidhaye.com/presentation/third.html</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>https://www.neerajsidhaye.com/presentation/third/</guid>
+        <guid>www.neerajsidhaye.com/presentation/third.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
-        <media:content url="https://www.neerajsidhaye.com/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="www.neerajsidhaye.com/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -80,15 +80,15 @@
       
       <item>
         <title>Second</title>
-        <link>https://www.neerajsidhaye.com/presentation/second/</link>
+        <link>www.neerajsidhaye.com/presentation/second.html</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>https://www.neerajsidhaye.com/presentation/second/</guid>
+        <guid>www.neerajsidhaye.com/presentation/second.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
-        <media:content url="https://www.neerajsidhaye.com/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="www.neerajsidhaye.com/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -110,15 +110,15 @@
       
       <item>
         <title>First</title>
-        <link>https://www.neerajsidhaye.com/presentation/first/</link>
+        <link>www.neerajsidhaye.com/presentation/first.html</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>https://www.neerajsidhaye.com/presentation/first/</guid>
+        <guid>www.neerajsidhaye.com/presentation/first.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
-        <media:content url="https://www.neerajsidhaye.com/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="www.neerajsidhaye.com/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

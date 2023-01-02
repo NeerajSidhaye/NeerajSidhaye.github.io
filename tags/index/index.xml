@@ -7,23 +7,23 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>index on Neeraj Sidhaye</title>
-    <link>https://www.neerajsidhaye.com/tags/index/</link>
+    <link>www.neerajsidhaye.com/tags/index/</link>
     <description>Recent content in index on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://www.neerajsidhaye.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="www.neerajsidhaye.com/tags/index/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Posts</title>
-        <link>https://www.neerajsidhaye.com/posts/</link>
+        <link>www.neerajsidhaye.com/posts.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://www.neerajsidhaye.com/posts/</guid>
+        <guid>www.neerajsidhaye.com/posts.html</guid>
         <description></description>
         
         <dc:creator>Hugo Authors</dc:creator>

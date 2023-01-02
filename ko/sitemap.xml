@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.neerajsidhaye.com/ko/categories/</loc>
+    <loc>www.neerajsidhaye.com/ko/categories.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.neerajsidhaye.com/categories/"
+                href="www.neerajsidhaye.com/categories.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.neerajsidhaye.com/ko/categories/"
+                href="www.neerajsidhaye.com/ko/categories.html"
                 />
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/ko/</loc>
+    <loc>www.neerajsidhaye.com/ko/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.neerajsidhaye.com/"
+                href="www.neerajsidhaye.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.neerajsidhaye.com/ko/"
+                href="www.neerajsidhaye.com/ko/"
                 />
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/ko/series/</loc>
+    <loc>www.neerajsidhaye.com/ko/series.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.neerajsidhaye.com/series/"
+                href="www.neerajsidhaye.com/series.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.neerajsidhaye.com/ko/series/"
+                href="www.neerajsidhaye.com/ko/series.html"
                 />
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/ko/tags/</loc>
+    <loc>www.neerajsidhaye.com/ko/tags.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.neerajsidhaye.com/tags/"
+                href="www.neerajsidhaye.com/tags.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.neerajsidhaye.com/ko/tags/"
+                href="www.neerajsidhaye.com/ko/tags.html"
                 />
   </url>
   
