@@ -31,7 +31,7 @@ HttpHandler wrappers are the functions which takes http.Handler as input and ret
 Defining Middleware Here we have defined a simple log request middleware, which takes one argument and returns one argument and of the same type http.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/core/go-middleware.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/core/go-middleware.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

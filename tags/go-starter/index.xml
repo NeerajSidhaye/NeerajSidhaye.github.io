@@ -30,7 +30,7 @@ As we step up and write more code which involve various layering, then it become
  easy to understand and maintain each package purpose becomes self explanatory by it&amp;rsquo;s name reduce interdependencies in the code increase code reusability ease of collaboration  Well, you can think of more points, but the fact is, it is very important to follow a basic template which is set a as standard by various GO projects ( GO doesn&amp;rsquo;t provide any official docs on project structure as such) and later on top of that, one can evolve their own structure as needed.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/starter/goprojectlayout.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/starter/goprojectlayout.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

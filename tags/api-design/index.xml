@@ -31,7 +31,7 @@ You are doing wrong if
  You find a need to deploy services together You have one code base for multiple services You need to send notification to before you deploy a service  2.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/api/microservices.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/api/microservices.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

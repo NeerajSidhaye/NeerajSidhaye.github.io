@@ -37,7 +37,7 @@
  For this post, I have created docker image of a GO rest api and pushed to my docker hub repository.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/aws/goawsec2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/aws/goawsec2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -71,7 +71,7 @@ Assuming that you have got docker, git and GO installed on your machine so that 
 Multi Stage Build We will be creating a multi stage build.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/docker/dockerizegoapp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/docker/dockerizegoapp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

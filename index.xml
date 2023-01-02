@@ -55,7 +55,7 @@ We will go through step by step as below
   Docker compose</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/api/monitoring/go-prom-grafana-post-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/api/monitoring/go-prom-grafana-post-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -99,7 +99,7 @@ Key Highlights
 What is Prometheus? This is an open-source monitoring and alerting system.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/api/monitoring/prometheus-image.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/api/monitoring/prometheus-image.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -133,7 +133,7 @@ What is Prometheus? This is an open-source monitoring and alerting system.</desc
  Creating role ( aws iam create-role ) Attaching policy to the role ( aws iam attach-role-policy ) Deploying Lambda function ( aws lambda create-function ) Invoking the lambda function ( aws lambda invoke )  Our lambda function will return a account detail json as below.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/aws/aws-lambda-go.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/aws/aws-lambda-go.jpg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -170,7 +170,7 @@ What is Prometheus? This is an open-source monitoring and alerting system.</desc
  For this post, I have created docker image of a GO rest api and pushed to my docker hub repository.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/aws/goawsec2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/aws/goawsec2.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -205,7 +205,7 @@ HttpHandler wrappers are the functions which takes http.Handler as input and ret
 Defining Middleware Here we have defined a simple log request middleware, which takes one argument and returns one argument and of the same type http.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/core/go-middleware.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/core/go-middleware.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -245,7 +245,7 @@ We will explore below topics
  What is gosec? gosec is a static code analyzer tool for inspecting go application code for security problems.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/security/gosecuritychecker.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/security/gosecuritychecker.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -279,7 +279,7 @@ Assuming that you have got docker, git and GO installed on your machine so that 
 Multi Stage Build We will be creating a multi stage build.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/docker/dockerizegoapp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/docker/dockerizegoapp.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -309,7 +309,7 @@ Before we start, let&amp;rsquo;s quickly read about Test Flavours - test types a
 Test Flavours   Expand - Test Flavours   Unit Tests This covers smallest piece of code which validates whether targeted code block works as expected with varieties of inputs.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/api/test/testing-automation.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/api/test/testing-automation.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -335,7 +335,7 @@ As we step up and write more code which involve various layering, then it become
  easy to understand and maintain each package purpose becomes self explanatory by it&amp;rsquo;s name reduce interdependencies in the code increase code reusability ease of collaboration  Well, you can think of more points, but the fact is, it is very important to follow a basic template which is set a as standard by various GO projects ( GO doesn&amp;rsquo;t provide any official docs on project structure as such) and later on top of that, one can evolve their own structure as needed.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/starter/goprojectlayout.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/starter/goprojectlayout.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -363,7 +363,7 @@ Ok, let&amp;rsquo;s go ahead&amp;hellip;
 GO - WebService GO package net/http does the job for us. It stars the sever and ready to receive request at /hello with http.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/go/api/gorestapi.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/go/api/gorestapi.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -394,7 +394,7 @@ You are doing wrong if
  You find a need to deploy services together You have one code base for multiple services You need to send notification to before you deploy a service  2.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/api/microservices.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/api/microservices.jpeg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -424,7 +424,7 @@ You are doing wrong if
 This connection is one directional connection from server to client. Meaning that, once the client connects to server, then there after server will send any real-time notifications generated on the server side, to the client.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com/images/posts/sse/what-are-server-sent-events-sse.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://neerajsidhaye.com//images/posts/sse/what-are-server-sent-events-sse.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
