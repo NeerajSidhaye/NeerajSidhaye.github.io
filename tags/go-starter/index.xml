@@ -7,30 +7,30 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>GO starter on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.com/tags/go-starter/</link>
+    <link>https://www.neerajsidhaye.com/tags/go-starter/</link>
     <description>Recent content in GO starter on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     
-        <atom:link href="https://neerajsidhaye.com/tags/go-starter/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.neerajsidhaye.com/tags/go-starter/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Go - Project Structure</title>
-        <link>https://neerajsidhaye.com/posts/go/starter/goprojectlayout/</link>
+        <link>https://www.neerajsidhaye.com/posts/go/starter/goprojectlayout/</link>
         <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Mon, 15 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.com/posts/go/starter/goprojectlayout/</guid>
+        <guid>https://www.neerajsidhaye.com/posts/go/starter/goprojectlayout/</guid>
         <description>I am sure, how to structure a Go Project, would have been most obvious question which everybody have thought through and it is very obvious. Specially after we write some basic hello world which has only main.go or after doing workouts in Go Playground
 As we step up and write more code which involve various layering, then it becomes very essential to organize the code, so that:-
  easy to understand and maintain each package purpose becomes self explanatory by it&amp;rsquo;s name reduce interdependencies in the code increase code reusability ease of collaboration  Well, you can think of more points, but the fact is, it is very important to follow a basic template which is set a as standard by various GO projects ( GO doesn&amp;rsquo;t provide any official docs on project structure as such) and later on top of that, one can evolve their own structure as needed.</description>
         
         <dc:creator>Neeraj Sidhaye</dc:creator>
-        <media:content url="https://neerajsidhaye.com//images/posts/go/starter/goprojectlayout.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.neerajsidhaye.com//images/posts/go/starter/goprojectlayout.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
