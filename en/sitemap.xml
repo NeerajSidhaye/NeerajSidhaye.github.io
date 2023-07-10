@@ -14,7 +14,7 @@
   
   <url>
     <loc>https://www.neerajsidhaye.com/</loc>
-    <lastmod>2021-10-02T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -24,6 +24,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.neerajsidhaye.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.neerajsidhaye.com/posts/go/core/slice/goslicebasics.html</loc>
+    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.neerajsidhaye.com/tags/go-starter.html</loc>
+    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.neerajsidhaye.com/posts.html</loc>
+    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.neerajsidhaye.com/tags.html</loc>
+    <lastmod>2023-07-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://www.neerajsidhaye.com/ko/tags.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.neerajsidhaye.com/tags.html"
                 />
   </url>
   
@@ -58,11 +88,6 @@
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts.html</loc>
-    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.neerajsidhaye.com/tags/prometheus.html</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url>
@@ -70,21 +95,6 @@
   <url>
     <loc>https://www.neerajsidhaye.com/tags/prometheus-grafana.html</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.neerajsidhaye.com/tags.html</loc>
-    <lastmod>2021-09-18T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.neerajsidhaye.com/ko/tags.html"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.neerajsidhaye.com/tags.html"
-                />
   </url>
   
   <url>
@@ -184,11 +194,6 @@
   
   <url>
     <loc>https://www.neerajsidhaye.com/posts/go/starter/goprojectlayout.html</loc>
-    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.neerajsidhaye.com/tags/go-starter.html</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url>
   

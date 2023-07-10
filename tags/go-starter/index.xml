@@ -12,11 +12,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jul 2023 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://www.neerajsidhaye.com/tags/go-starter/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Go - Slice basics</title>
+        <link>https://www.neerajsidhaye.com/posts/go/core/slice/goslicebasics.html</link>
+        <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+        
+        <atom:modified>Mon, 10 Jul 2023 00:00:00 +0000</atom:modified>
+        <guid>https://www.neerajsidhaye.com/posts/go/core/slice/goslicebasics.html</guid>
+        <description>Small post to explain go slice basics, specially around slice length and capacity.
+How an underlyig array is created in memory when we
+ create a new slice create a new slice from an existing slice appending elments to a slice what happnes when underlaying array is full when we keep appending elements to slice.  Refer to code go slice basic example here
+go slice visuals </description>
+        
+        <dc:creator>Neeraj Sidhaye</dc:creator>
+        <media:content url="https://www.neerajsidhaye.com//images/posts/go/starter/go-slice-img.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>GO starter</category>
+            
+          
+        
+        
+        
+      </item>
       
       <item>
         <title>Go - Project Structure</title>
