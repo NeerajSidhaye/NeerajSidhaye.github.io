@@ -3,328 +3,328 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.neerajsidhaye.com/showcase/hugo/hugo-theme-zzo.html</loc>
+    <loc>https://neerajsidhaye.github.io/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/showcase/hugo/hugo-theme-zdoc.html</loc>
+    <loc>https://neerajsidhaye.github.io/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-01-19T21:13:42+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/</loc>
+    <loc>https://neerajsidhaye.github.io/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.neerajsidhaye.com/ko/"
+                href="https://neerajsidhaye.github.io/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.neerajsidhaye.com/"
+                href="https://neerajsidhaye.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/go/core/slice/goslicebasics.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/go/core/slice/goslicebasics/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/go-starter.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/go-starter/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/</loc>
     <lastmod>2023-07-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.neerajsidhaye.com/ko/tags.html"
+                href="https://neerajsidhaye.github.io/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.neerajsidhaye.com/tags.html"
+                href="https://neerajsidhaye.github.io/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/publication/youtube/applicationmonitoring.html</loc>
+    <loc>https://neerajsidhaye.github.io/publication/youtube/applicationmonitoring/</loc>
     <lastmod>2021-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/publication.html</loc>
+    <loc>https://neerajsidhaye.github.io/publication/</loc>
     <lastmod>2021-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/api.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/api/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/api-monitoring.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/api-monitoring/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/api/monitoring/prometheus-handson.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-handson/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/golang.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/golang/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/prometheus.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/prometheus/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/prometheus-grafana.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/prometheus-grafana/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/api/monitoring/prometheus-concept.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-concept/</loc>
     <lastmod>2021-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/aws.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/aws/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/go/aws/golambdafunction.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/go/aws/golambdafunction/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/go.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/go/</loc>
     <lastmod>2021-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/go/aws/deployinggoapponaws.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/go/aws/deployinggoapponaws/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/docker.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/docker/</loc>
     <lastmod>2021-05-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/go-core.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/go-core/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/go/core/filter/gomiddleware.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/go/core/filter/gomiddleware/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/middleware.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/middleware/</loc>
     <lastmod>2021-04-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/go/security/goappsecuritychecker.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/go/security/goappsecuritychecker/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/security.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/security/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/sonarcloud.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/sonarcloud/</loc>
     <lastmod>2021-03-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/publication/article/medium.html</loc>
+    <loc>https://neerajsidhaye.github.io/publication/article/medium/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/publication/article.html</loc>
+    <loc>https://neerajsidhaye.github.io/publication/article/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/publication/youtube/zerocodepresentation.html</loc>
+    <loc>https://neerajsidhaye.github.io/publication/youtube/zerocodepresentation/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/publication/youtube.html</loc>
+    <loc>https://neerajsidhaye.github.io/publication/youtube/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/go/docker/dockerizegoapp.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/go/docker/dockerizegoapp/</loc>
     <lastmod>2021-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/api-test-automation.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/api-test-automation/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/api/test/zerocodearchtype.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/api/test/zerocodearchtype/</loc>
     <lastmod>2021-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/go/starter/goprojectlayout.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/go/starter/goprojectlayout/</loc>
     <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/go/api/gorestapi.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/go/api/gorestapi/</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/rest-api.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/rest-api/</loc>
     <lastmod>2021-02-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/api-design.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/api-design/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/microservices.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/microservices/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/api/designprinciple.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/api/designprinciple/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/publication/article/dzone.html</loc>
+    <loc>https://neerajsidhaye.github.io/publication/article/dzone/</loc>
     <lastmod>2021-02-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/eventsource.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/eventsource/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/server-sent-events.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/server-sent-events/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/posts/sse/sse.html</loc>
+    <loc>https://neerajsidhaye.github.io/posts/sse/sse/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/sse.html</loc>
+    <loc>https://neerajsidhaye.github.io/tags/sse/</loc>
     <lastmod>2021-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/showcase/hugo.html</loc>
+    <loc>https://neerajsidhaye.github.io/showcase/hugo/</loc>
     <lastmod>2020-01-19T21:04:11+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/showcase.html</loc>
+    <loc>https://neerajsidhaye.github.io/showcase/</loc>
     <lastmod>2020-01-19T15:43:38+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/presentation/dir/fourth.html</loc>
+    <loc>https://neerajsidhaye.github.io/presentation/dir/fourth/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/presentation.html</loc>
+    <loc>https://neerajsidhaye.github.io/presentation/</loc>
     <lastmod>2019-10-30T20:48:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/presentation/third.html</loc>
+    <loc>https://neerajsidhaye.github.io/presentation/third/</loc>
     <lastmod>2019-10-30T20:46:30+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/presentation/second.html</loc>
+    <loc>https://neerajsidhaye.github.io/presentation/second/</loc>
     <lastmod>2019-10-30T20:45:24+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/presentation/first.html</loc>
+    <loc>https://neerajsidhaye.github.io/presentation/first/</loc>
     <lastmod>2019-10-30T19:45:20+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/archive.html</loc>
+    <loc>https://neerajsidhaye.github.io/archive/</loc>
     <lastmod>2019-10-19T11:44:14+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/about.html</loc>
+    <loc>https://neerajsidhaye.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/categories.html</loc>
+    <loc>https://neerajsidhaye.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.neerajsidhaye.com/ko/categories.html"
+                href="https://neerajsidhaye.github.io/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.neerajsidhaye.com/categories.html"
+                href="https://neerajsidhaye.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/tags/index/</loc>
+    <loc>https://neerajsidhaye.github.io/tags/index/</loc>
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/series.html</loc>
+    <loc>https://neerajsidhaye.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://www.neerajsidhaye.com/ko/series.html"
+                href="https://neerajsidhaye.github.io/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.neerajsidhaye.com/series.html"
+                href="https://neerajsidhaye.github.io/series/"
                 />
   </url>
   
   <url>
-    <loc>https://www.neerajsidhaye.com/now.html</loc>
+    <loc>https://neerajsidhaye.github.io/now/</loc>
   </url>
   
 </urlset>

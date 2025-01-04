@@ -7,13 +7,13 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Hugo Zzo Theme</title>
-    <link>https://www.neerajsidhaye.com/ko/categories.html</link>
+    <link>https://neerajsidhaye.github.io/ko/categories/</link>
     <description>Recent content in Categories on Hugo Zzo Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://www.neerajsidhaye.com/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://neerajsidhaye.github.io/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
