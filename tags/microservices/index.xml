@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>MicroServices on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/tags/microservices/</link>
+    <link>https://neerajsidhaye.github.io/tags/microservices.html</link>
     <description>Recent content in MicroServices on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>Microservices - Design Principle</title>
-        <link>https://neerajsidhaye.github.io/posts/api/designprinciple/</link>
+        <link>https://neerajsidhaye.github.io/posts/api/designprinciple.html</link>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Thu, 11 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/api/designprinciple/</guid>
+        <guid>https://neerajsidhaye.github.io/posts/api/designprinciple.html</guid>
         <description>I have put together my notes around some of the basic microservices design principles which we must always consider while designing a microservice.
 Design principles for MicroServices 1. Develop and Deployed independently Each service should be developed and deployed independently. Deployment of one service should not impact other services and a each service should have it&amp;rsquo;s own code base.
 You are doing wrong if

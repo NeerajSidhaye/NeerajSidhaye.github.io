@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>API Test Automation on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/tags/api-test-automation/</link>
+    <link>https://neerajsidhaye.github.io/tags/api-test-automation.html</link>
     <description>Recent content in API Test Automation on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>API Test Automation - in minutes!!</title>
-        <link>https://neerajsidhaye.github.io/posts/api/test/zerocodearchtype/</link>
+        <link>https://neerajsidhaye.github.io/posts/api/test/zerocodearchtype.html</link>
         <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Thu, 18 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/api/test/zerocodearchtype/</guid>
+        <guid>https://neerajsidhaye.github.io/posts/api/test/zerocodearchtype.html</guid>
         <description>In this post, I will show you, how simple and fast you can write automation tests for your API using ZeroCode framework
 Before we start, let&amp;rsquo;s quickly read about Test Flavours - test types and where does ZeroCode framework fits in.
 Test Flavours   Expand - Test Flavours   Unit Tests This covers smallest piece of code which validates whether targeted code block works as expected with varieties of inputs.</description>

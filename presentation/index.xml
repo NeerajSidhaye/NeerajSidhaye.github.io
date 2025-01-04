@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/presentation/</link>
+    <link>https://neerajsidhaye.github.io/presentation.html</link>
     <description>Recent content in Presentations on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>Fourth</title>
-        <link>https://neerajsidhaye.github.io/presentation/dir/fourth/</link>
+        <link>https://neerajsidhaye.github.io/presentation/dir/fourth.html</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>https://neerajsidhaye.github.io/presentation/dir/fourth/</guid>
+        <guid>https://neerajsidhaye.github.io/presentation/dir/fourth.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -50,11 +50,11 @@
       
       <item>
         <title>Third</title>
-        <link>https://neerajsidhaye.github.io/presentation/third/</link>
+        <link>https://neerajsidhaye.github.io/presentation/third.html</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>https://neerajsidhaye.github.io/presentation/third/</guid>
+        <guid>https://neerajsidhaye.github.io/presentation/third.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -80,11 +80,11 @@
       
       <item>
         <title>Second</title>
-        <link>https://neerajsidhaye.github.io/presentation/second/</link>
+        <link>https://neerajsidhaye.github.io/presentation/second.html</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>https://neerajsidhaye.github.io/presentation/second/</guid>
+        <guid>https://neerajsidhaye.github.io/presentation/second.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -110,11 +110,11 @@
       
       <item>
         <title>First</title>
-        <link>https://neerajsidhaye.github.io/presentation/first/</link>
+        <link>https://neerajsidhaye.github.io/presentation/first.html</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>https://neerajsidhaye.github.io/presentation/first/</guid>
+        <guid>https://neerajsidhaye.github.io/presentation/first.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>

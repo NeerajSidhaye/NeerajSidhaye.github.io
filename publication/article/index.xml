@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Article on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/publication/article/</link>
+    <link>https://neerajsidhaye.github.io/publication/article.html</link>
     <description>Recent content in Article on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>An approach - API Test Automaton &amp; CI/CD Integration</title>
-        <link>https://neerajsidhaye.github.io/publication/article/medium/</link>
+        <link>https://neerajsidhaye.github.io/publication/article/medium.html</link>
         <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 28 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/publication/article/medium/</guid>
+        <guid>https://neerajsidhaye.github.io/publication/article/medium.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -38,11 +38,11 @@
       
       <item>
         <title>Sonar Cloud Integration with Spring Boot</title>
-        <link>https://neerajsidhaye.github.io/publication/article/dzone/</link>
+        <link>https://neerajsidhaye.github.io/publication/article/dzone.html</link>
         <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Tue, 09 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/publication/article/dzone/</guid>
+        <guid>https://neerajsidhaye.github.io/publication/article/dzone.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>

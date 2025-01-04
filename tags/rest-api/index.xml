@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>REST API on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/tags/rest-api/</link>
+    <link>https://neerajsidhaye.github.io/tags/rest-api.html</link>
     <description>Recent content in REST API on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>Go - Building API</title>
-        <link>https://neerajsidhaye.github.io/posts/go/api/gorestapi/</link>
+        <link>https://neerajsidhaye.github.io/posts/go/api/gorestapi.html</link>
         <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 14 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/go/api/gorestapi/</guid>
+        <guid>https://neerajsidhaye.github.io/posts/go/api/gorestapi.html</guid>
         <description>In this post, I will try to put together notes around GO service and REST API.
  The complete source code is available on my github repo.I have created 3 branches, each branch representing different flavour of writing service.
 GO api source code

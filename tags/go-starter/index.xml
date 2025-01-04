@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>GO starter on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/tags/go-starter/</link>
+    <link>https://neerajsidhaye.github.io/tags/go-starter.html</link>
     <description>Recent content in GO starter on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>Go - Slice</title>
-        <link>https://neerajsidhaye.github.io/posts/go/core/slice/goslicebasics/</link>
+        <link>https://neerajsidhaye.github.io/posts/go/core/slice/goslicebasics.html</link>
         <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
         
         <atom:modified>Mon, 10 Jul 2023 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/go/core/slice/goslicebasics/</guid>
+        <guid>https://neerajsidhaye.github.io/posts/go/core/slice/goslicebasics.html</guid>
         <description>Small post to explain go slice basics, specially around slice length and capacity.
 How an underlyig array is created in memory when we
  create a new slice create a new slice from an existing slice appending elments to a slice what happnes when underlaying array is full when we keep appending elements to slice.  Refer to code go slice basic example here
@@ -47,11 +47,11 @@ go slice visuals </description>
       
       <item>
         <title>Go - Project Structure</title>
-        <link>https://neerajsidhaye.github.io/posts/go/starter/goprojectlayout/</link>
+        <link>https://neerajsidhaye.github.io/posts/go/starter/goprojectlayout.html</link>
         <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Mon, 15 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/go/starter/goprojectlayout/</guid>
+        <guid>https://neerajsidhaye.github.io/posts/go/starter/goprojectlayout.html</guid>
         <description>I am sure, how to structure a Go Project, would have been most obvious question which everybody have thought through and it is very obvious. Specially after we write some basic hello world which has only main.go or after doing workouts in Go Playground
 As we step up and write more code which involve various layering, then it becomes very essential to organize the code, so that:-
  easy to understand and maintain each package purpose becomes self explanatory by it&amp;rsquo;s name reduce interdependencies in the code increase code reusability ease of collaboration  Well, you can think of more points, but the fact is, it is very important to follow a basic template which is set a as standard by various GO projects ( GO doesn&amp;rsquo;t provide any official docs on project structure as such) and later on top of that, one can evolve their own structure as needed.</description>

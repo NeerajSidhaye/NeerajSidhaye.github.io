@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Security on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/tags/security/</link>
+    <link>https://neerajsidhaye.github.io/tags/security.html</link>
     <description>Recent content in Security on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>gosec - GO security scanner and gosec integration with SonarCloud</title>
-        <link>https://neerajsidhaye.github.io/posts/go/security/goappsecuritychecker/</link>
+        <link>https://neerajsidhaye.github.io/posts/go/security/goappsecuritychecker.html</link>
         <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 14 Mar 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/go/security/goappsecuritychecker/</guid>
+        <guid>https://neerajsidhaye.github.io/posts/go/security/goappsecuritychecker.html</guid>
         <description>In this post, we will scan GO application code for security issues using gosec and will also integrate gosec with SonarCloud.
 We will explore below topics
  What is gosec?

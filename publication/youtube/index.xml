@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>YouTube on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/publication/youtube/</link>
+    <link>https://neerajsidhaye.github.io/publication/youtube.html</link>
     <description>Recent content in YouTube on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>Application Monitoring with Prometheus</title>
-        <link>https://neerajsidhaye.github.io/publication/youtube/applicationmonitoring/</link>
+        <link>https://neerajsidhaye.github.io/publication/youtube/applicationmonitoring.html</link>
         <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 02 Oct 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/publication/youtube/applicationmonitoring/</guid>
+        <guid>https://neerajsidhaye.github.io/publication/youtube/applicationmonitoring.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -38,11 +38,11 @@
       
       <item>
         <title>Introduction to ZeroCode Framework</title>
-        <link>https://neerajsidhaye.github.io/publication/youtube/zerocodepresentation/</link>
+        <link>https://neerajsidhaye.github.io/publication/youtube/zerocodepresentation.html</link>
         <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 28 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/publication/youtube/zerocodepresentation/</guid>
+        <guid>https://neerajsidhaye.github.io/publication/youtube/zerocodepresentation.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>

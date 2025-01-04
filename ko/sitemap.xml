@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://neerajsidhaye.github.io/ko/categories/</loc>
+    <loc>https://neerajsidhaye.github.io/ko/categories.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://neerajsidhaye.github.io/categories/"
+                href="https://neerajsidhaye.github.io/categories.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://neerajsidhaye.github.io/ko/categories/"
+                href="https://neerajsidhaye.github.io/ko/categories.html"
                 />
   </url>
   
@@ -31,30 +31,30 @@
   </url>
   
   <url>
-    <loc>https://neerajsidhaye.github.io/ko/series/</loc>
+    <loc>https://neerajsidhaye.github.io/ko/series.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://neerajsidhaye.github.io/series/"
+                href="https://neerajsidhaye.github.io/series.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://neerajsidhaye.github.io/ko/series/"
+                href="https://neerajsidhaye.github.io/ko/series.html"
                 />
   </url>
   
   <url>
-    <loc>https://neerajsidhaye.github.io/ko/tags/</loc>
+    <loc>https://neerajsidhaye.github.io/ko/tags.html</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://neerajsidhaye.github.io/tags/"
+                href="https://neerajsidhaye.github.io/tags.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://neerajsidhaye.github.io/ko/tags/"
+                href="https://neerajsidhaye.github.io/ko/tags.html"
                 />
   </url>
   

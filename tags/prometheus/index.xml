@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Prometheus on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/tags/prometheus/</link>
+    <link>https://neerajsidhaye.github.io/tags/prometheus.html</link>
     <description>Recent content in Prometheus on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>What is Prometheus?</title>
-        <link>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-concept/</link>
+        <link>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-concept.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 18 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-concept/</guid>
+        <guid>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-concept.html</guid>
         <description>This is the first post on Prometheus series. If you already know basics of Prometheus, then please read my post on Prometheus Hands-On Go api monitoring using Prometheus and Grafana Integration using Docker Compose
 In this post, we will look at
 What is Prometheus?

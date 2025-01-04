@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/publication/</link>
+    <link>https://neerajsidhaye.github.io/publication.html</link>
     <description>Recent content in Publications on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>Article</title>
-        <link>https://neerajsidhaye.github.io/publication/article/</link>
+        <link>https://neerajsidhaye.github.io/publication/article.html</link>
         <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 28 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/publication/article/</guid>
+        <guid>https://neerajsidhaye.github.io/publication/article.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -38,11 +38,11 @@
       
       <item>
         <title>YouTube</title>
-        <link>https://neerajsidhaye.github.io/publication/youtube/</link>
+        <link>https://neerajsidhaye.github.io/publication/youtube.html</link>
         <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sun, 28 Feb 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/publication/youtube/</guid>
+        <guid>https://neerajsidhaye.github.io/publication/youtube.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>

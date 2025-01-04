@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Tags on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/tags/</link>
+    <link>https://neerajsidhaye.github.io/tags.html</link>
     <description>Recent content in Tags on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>GO starter</title>
-        <link>https://neerajsidhaye.github.io/tags/go-starter/</link>
+        <link>https://neerajsidhaye.github.io/tags/go-starter.html</link>
         <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/go-starter/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/go-starter.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -38,11 +38,11 @@
       
       <item>
         <title>API</title>
-        <link>https://neerajsidhaye.github.io/tags/api/</link>
+        <link>https://neerajsidhaye.github.io/tags/api.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/api/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/api.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -56,11 +56,11 @@
       
       <item>
         <title>API Monitoring</title>
-        <link>https://neerajsidhaye.github.io/tags/api-monitoring/</link>
+        <link>https://neerajsidhaye.github.io/tags/api-monitoring.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/api-monitoring/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/api-monitoring.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -74,11 +74,11 @@
       
       <item>
         <title>GoLang</title>
-        <link>https://neerajsidhaye.github.io/tags/golang/</link>
+        <link>https://neerajsidhaye.github.io/tags/golang.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/golang/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/golang.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -92,11 +92,11 @@
       
       <item>
         <title>Prometheus</title>
-        <link>https://neerajsidhaye.github.io/tags/prometheus/</link>
+        <link>https://neerajsidhaye.github.io/tags/prometheus.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/prometheus/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/prometheus.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -110,11 +110,11 @@
       
       <item>
         <title>Prometheus, Grafana</title>
-        <link>https://neerajsidhaye.github.io/tags/prometheus-grafana/</link>
+        <link>https://neerajsidhaye.github.io/tags/prometheus-grafana.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/prometheus-grafana/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/prometheus-grafana.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -128,11 +128,11 @@
       
       <item>
         <title>AWS</title>
-        <link>https://neerajsidhaye.github.io/tags/aws/</link>
+        <link>https://neerajsidhaye.github.io/tags/aws.html</link>
         <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/aws/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/aws.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -146,11 +146,11 @@
       
       <item>
         <title>GO</title>
-        <link>https://neerajsidhaye.github.io/tags/go/</link>
+        <link>https://neerajsidhaye.github.io/tags/go.html</link>
         <pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/go/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/go.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -164,11 +164,11 @@
       
       <item>
         <title>Docker</title>
-        <link>https://neerajsidhaye.github.io/tags/docker/</link>
+        <link>https://neerajsidhaye.github.io/tags/docker.html</link>
         <pubDate>Tue, 25 May 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/docker/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/docker.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -182,11 +182,11 @@
       
       <item>
         <title>GO Core</title>
-        <link>https://neerajsidhaye.github.io/tags/go-core/</link>
+        <link>https://neerajsidhaye.github.io/tags/go-core.html</link>
         <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/go-core/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/go-core.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -200,11 +200,11 @@
       
       <item>
         <title>middleware</title>
-        <link>https://neerajsidhaye.github.io/tags/middleware/</link>
+        <link>https://neerajsidhaye.github.io/tags/middleware.html</link>
         <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/middleware/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/middleware.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -218,11 +218,11 @@
       
       <item>
         <title>Security</title>
-        <link>https://neerajsidhaye.github.io/tags/security/</link>
+        <link>https://neerajsidhaye.github.io/tags/security.html</link>
         <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/security/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/security.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -236,11 +236,11 @@
       
       <item>
         <title>SonarCloud</title>
-        <link>https://neerajsidhaye.github.io/tags/sonarcloud/</link>
+        <link>https://neerajsidhaye.github.io/tags/sonarcloud.html</link>
         <pubDate>Sun, 14 Mar 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/sonarcloud/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/sonarcloud.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -254,11 +254,11 @@
       
       <item>
         <title>API Test Automation</title>
-        <link>https://neerajsidhaye.github.io/tags/api-test-automation/</link>
+        <link>https://neerajsidhaye.github.io/tags/api-test-automation.html</link>
         <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/api-test-automation/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/api-test-automation.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -272,11 +272,11 @@
       
       <item>
         <title>REST API</title>
-        <link>https://neerajsidhaye.github.io/tags/rest-api/</link>
+        <link>https://neerajsidhaye.github.io/tags/rest-api.html</link>
         <pubDate>Sun, 14 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/rest-api/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/rest-api.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -290,11 +290,11 @@
       
       <item>
         <title>API Design</title>
-        <link>https://neerajsidhaye.github.io/tags/api-design/</link>
+        <link>https://neerajsidhaye.github.io/tags/api-design.html</link>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/api-design/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/api-design.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -308,11 +308,11 @@
       
       <item>
         <title>MicroServices</title>
-        <link>https://neerajsidhaye.github.io/tags/microservices/</link>
+        <link>https://neerajsidhaye.github.io/tags/microservices.html</link>
         <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/microservices/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/microservices.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -326,11 +326,11 @@
       
       <item>
         <title>EventSource</title>
-        <link>https://neerajsidhaye.github.io/tags/eventsource/</link>
+        <link>https://neerajsidhaye.github.io/tags/eventsource.html</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/eventsource/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/eventsource.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -344,11 +344,11 @@
       
       <item>
         <title>Server Sent Events</title>
-        <link>https://neerajsidhaye.github.io/tags/server-sent-events/</link>
+        <link>https://neerajsidhaye.github.io/tags/server-sent-events.html</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/server-sent-events/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/server-sent-events.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>
@@ -362,11 +362,11 @@
       
       <item>
         <title>SSE</title>
-        <link>https://neerajsidhaye.github.io/tags/sse/</link>
+        <link>https://neerajsidhaye.github.io/tags/sse.html</link>
         <pubDate>Sun, 07 Feb 2021 00:00:00 +0000</pubDate>
         
         
-        <guid>https://neerajsidhaye.github.io/tags/sse/</guid>
+        <guid>https://neerajsidhaye.github.io/tags/sse.html</guid>
         <description></description>
         
         <dc:creator>{Neeraj:Sidhaye}</dc:creator>

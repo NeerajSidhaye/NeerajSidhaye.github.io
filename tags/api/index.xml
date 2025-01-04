@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>API on Neeraj Sidhaye</title>
-    <link>https://neerajsidhaye.github.io/tags/api/</link>
+    <link>https://neerajsidhaye.github.io/tags/api.html</link>
     <description>Recent content in API on Neeraj Sidhaye</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -20,11 +20,11 @@
       
       <item>
         <title>GO API monitoring using Prometheus, and Grafana Integration using Docker Compose</title>
-        <link>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-handson/</link>
+        <link>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-handson.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 18 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-handson/</guid>
+        <guid>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-handson.html</guid>
         <description>This post is Prometheus hands on, where we will setup API monitoring using Prometheus, integration with Grafana for data visualization. The entire setup will be achieved using docker compose.
 If you are new to Prometheus, I would recommend to read my post on What is Prometheus?
 We will go through step by step as below
@@ -62,11 +62,11 @@ We will go through step by step as below
       
       <item>
         <title>What is Prometheus?</title>
-        <link>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-concept/</link>
+        <link>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-concept.html</link>
         <pubDate>Sat, 18 Sep 2021 00:00:00 +0000</pubDate>
         
         <atom:modified>Sat, 18 Sep 2021 00:00:00 +0000</atom:modified>
-        <guid>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-concept/</guid>
+        <guid>https://neerajsidhaye.github.io/posts/api/monitoring/prometheus-concept.html</guid>
         <description>This is the first post on Prometheus series. If you already know basics of Prometheus, then please read my post on Prometheus Hands-On Go api monitoring using Prometheus and Grafana Integration using Docker Compose
 In this post, we will look at
 What is Prometheus?
